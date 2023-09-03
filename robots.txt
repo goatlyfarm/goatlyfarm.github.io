@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://ninnekodev.github.io/whitepaper/sitemap.xml.gz

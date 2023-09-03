@@ -1,5 +1,6 @@
 # goatlyfarm.github.io
 Whitepaper GoatlyFarm
+
 Ninneko is an NFT Play-To-Earn game set in a deep dark forest, filled with mysterious defendable villages. Alpha Ninnekos were the first villagers to arrive in the forest, and they have protected the villages ever since, maintaining the history and culture of their tribes. However as more and more Beta Ninnekos arrived in the forest, the land became increasily scarce. As a result the villagers began invading one another, which in turn led to an ultimate war. Wild Ninnekos are born with the ability to lead, have extraordinary senses and abilities, and strive to preserve the history of the villages.
 
 Your goal is to help the Ninnekos conquer the entire forest, build new villages, and establish a strong empire. To carry out invasions, you will create various teams and continuously train them to be the best, you will then use these teams to attack enemy villages. A strategic Ninneko team is a combination of 5 different classes : Warrior, Support, Mage, Ranger and Assassin. Will your Ninneko Village be strong enough to defeat others? Will your empire thrive, or struggle?
